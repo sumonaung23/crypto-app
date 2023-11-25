@@ -56,7 +56,7 @@ a:hover{
     margin:0 0 0 15px;
 }
 .logo a{
-   color: white;
+    color: white;
 }
 .menu-control-container{
     display: none !important;
@@ -117,7 +117,7 @@ a:hover{
         z-index: 100;
         background-color: var(--bgSecondary);
     }
-  
+
     .menu-control-container{
         display: block !important;
     }
@@ -235,7 +235,7 @@ a:hover{
 }
 
 .coin-links{
-  padding: 0px 20px;
+    padding: 0px 20px;
     flex: 0.5;
 }
 
@@ -360,7 +360,7 @@ width: 70%;
     min-height: 65vh !important;
 }
 .crypto-card{
-    min-width: 250px;
+    min-width: 200px;
 }
 .crypto-card .crypto-image{
     width:35px;
